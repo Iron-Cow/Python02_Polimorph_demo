@@ -31,3 +31,4 @@ class MainWindowVec(QtWidgets.QMainWindow):
             QMessageBox.critical(self, 'ERRROr', 'Вводить только числа!')
             QMessageBox.question(self, 'ERRROr', 'Вводить только числа!')
 
+print('hello')
